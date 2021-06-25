@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include "power.h"
 
-void powerRule1(int first, int second)
+void powerRule1(int first, int second) 
 {
 	int firstCoeff = first;
 	int secondCoeff = second;
