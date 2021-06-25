@@ -26,7 +26,7 @@ void powerRule3(int first, int second, int third, int fourth)
 
 void powerRule4(int first, int second, int third, int fourth, int fifth)
 {
-	int firstCoeff = first * 4;
+	int firstCoeff = first * 4; 
 	int secondCoeff = second * 3;
 	int thirdCoeff = third * 2;
 	int fourthCoeff = fourth;
