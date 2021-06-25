@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <math.h>
+#include <math.h> 
 #include "triangle.h"
 #define M_PI 3.14159265358979323846
 
