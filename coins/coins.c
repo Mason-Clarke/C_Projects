@@ -4,7 +4,7 @@
 
 void calculateCoins(int coins)
 {
-	int totalCoins = coins;  //set working integer to total number of coins
+	int totalCoins = coins;  //set working integer to total number of coins 
 	int dollars = floor(totalCoins/100);	// calc number of loonies
 	totalCoins = totalCoins - (dollars * 100);  //decrement total coins by number of pennies in dollars
 	int quarters = floor(totalCoins/25);  //calc number of quarters
